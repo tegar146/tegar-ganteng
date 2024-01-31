@@ -1,3 +1,3 @@
 <html>
-    <p>tegar</p>
+    <p>tegar ganteng</p>
     </html>
